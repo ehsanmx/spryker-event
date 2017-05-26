@@ -1,0 +1,11 @@
+
+ {
+  "name": "ehsanmx/spryker-event",
+  "description": "Project",
+  "license": "MIT",
+  "type": "propel-behavior",
+  "extra": {
+    "name": "event",
+    "class": "\\Spryker\\Zed\\Event\\Persistence\\Propel\\Behavior\\EventBehaviour"
+  }
+}
