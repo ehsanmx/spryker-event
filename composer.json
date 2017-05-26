@@ -6,6 +6,6 @@
   "type": "propel-behavior",
   "extra": {
     "name": "event",
-    "class": "\\Spryker\\Zed\\Event\\Persistence\\Propel\\Behavior\\EventBehaviour"
+    "class": "\\Spryker\\Zed\\Event\\Persistence\\Propel\\Behavior\\EventBehavior"
   }
 }
